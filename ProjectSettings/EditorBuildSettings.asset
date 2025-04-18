@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/register.unity
     guid: 5d4772a375edd864ba2de95c54eb052f
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/homepage.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/restuarants.unity
+    guid: 63dac8831f1b48f43b0a548ba20e340c
+  - enabled: 1
+    path: Assets/Scenes/menutaj.unity
+    guid: 0bda1786dd5a9c948ade01bce8f4403c
   m_configObjects: {}
