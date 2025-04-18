@@ -18,6 +18,11 @@ public class scenemanager : MonoBehaviour
 
     public void LoadsceneR()
     {
-        SceneManager.LoadScene("restaurants");
+        SceneManager.LoadScene("restuarants");
+    }
+
+    public void LoadsceneC()
+    {
+        SceneManager.LoadScene("menucasa");
     }
 }
