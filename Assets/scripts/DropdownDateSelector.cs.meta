@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be0e07ba913467c42bfca1ec8330166c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkInDayDropdown: {fileID: 6406747040143500964, guid: b4c25cfafecc1e64fb2858595b1c68b6, type: 3}
+  - checkInMonthDropdown: {fileID: 8469695907726583772, guid: 58042084bf852d44fb4796096c21d4b6, type: 3}
+  - checkInYearDropdown: {fileID: 7110606561260140347, guid: 29606963b69db6a4f9c801d95123b01a, type: 3}
+  - checkOutDayDropdown: {fileID: 7620636416531225421, guid: 21908da173d82f4448e6ccd4d259646e, type: 3}
+  - checkOutMonthDropdown: {fileID: 3960094878946800016, guid: be529a26fde464b4e8a7caf384bff293, type: 3}
+  - checkOutYearDropdown: {fileID: 1401683366073614108, guid: 4106b4d978470f146b07f66ae3844bfc, type: 3}
+  - roomDropdown: {fileID: 6672983616114316312, guid: 23ed5a121cf2bf2408c3eba42339a3f5, type: 3}
+  - statusText: {fileID: 867447568974771012, guid: 1ea99973faa4d7347b798938d197498c, type: 3}
+  - roomSelectionText: {fileID: 8654229982041955423, guid: 7ae2c80da3a37054b8c58497cb50fffb, type: 3}
+  - confirmButton: {fileID: 2954683982980199836, guid: c66167971195d7246a222c2fe96d7c62, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

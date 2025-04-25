@@ -25,4 +25,9 @@ public class scenemanager : MonoBehaviour
     {
         SceneManager.LoadScene("menucasa");
     }
+
+    public void LoadsceneA()
+    {
+        SceneManager.LoadScene("accomdations");
+    }
 }
