@@ -20,4 +20,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menucasa.unity
     guid: 0450d89bdd193ee40b44cb094585b980
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/accomdations.unity
+    guid: f6b176b545ab044419c545d54336979c
+  - enabled: 1
+    path: Assets/Scenes/booking.unity
+    guid: 186b47cd44d29744f831af890d4080d1
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a1c64b3285a910645ac466ceb611bd0b, type: 2}
