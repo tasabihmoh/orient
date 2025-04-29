@@ -5,7 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class scenemanager : MonoBehaviour
 {
-
+    public void Loadscenreg()
+    {
+        SceneManager.LoadScene("register");
+    }
     public void LoadsceneM()
     {
         SceneManager.LoadScene("menutaj");
@@ -29,5 +32,10 @@ public class scenemanager : MonoBehaviour
     public void LoadsceneA()
     {
         SceneManager.LoadScene("accomdations");
+    }
+
+    public void LoadsceneBook()
+    {
+        SceneManager.LoadScene("booking");
     }
 }

@@ -65,7 +65,7 @@ public class DropdownDateSelector : MonoBehaviour
 
         // First add an empty/placeholder option
         List<string> options = new List<string>();
-        options.Add("Please select a room");
+        //options.Add("Please select a room");
 
         // Then add the actual room options
         options.AddRange(roomOptions);
